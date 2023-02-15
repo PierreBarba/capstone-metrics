@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <p align='center'><img  src="metrics.gif" width="300" height="300" ></p>
+  <p align='center'><img  src="metrics.gif" width="490" height="300" ></p>
   <h1><b>Capstone Metrics</b></h1>
 
 </div>
@@ -34,7 +34,7 @@
 
 # 📖 Project Name
 
-## Space Travellers Hub Web Application
+## Metrics Web Application
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,7 +47,7 @@
 > Describe between 1-3 key features of the application.
 
 - A **Single Page Application** (SPA) created using `React` library.
-- This web application can perform simple calculations and show random quotes.
+- This web application can perform the search for the countries of Europe and give some of their details.
 - Code is written following **__JSX__** syntax.
 - The web application is maintained using `Redux store`.
 - API calls are made using `Redux Async toolkit` _createAsyncThunk_.
@@ -58,7 +58,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Live demo is available [here](https://prangonghose.github.io/space-traveller-s-hub/).
+Live demo is available [here](https://pierrebarba.github.io/capstone-metrics/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +90,7 @@ Clone the repository using [this link](https://github.com/PrangonGhose/space-tra
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone https://github.com/PrangonGhose/space-traveller-s-hub.git
+$ git clone https://github.com/PierreBarba/capstone-metrics.git
 ```
 ### Get into development
 
@@ -160,8 +160,9 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 Authors would like to thank:
-- [Microverse](https://www.microverse.org/)
-- Code Reviewers
+- [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
+Thank you very much for allowing me to use your design which I took as a reference to carry out my project- Code 
+- Reviewers
 - Coding Partners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
