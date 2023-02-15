@@ -83,7 +83,7 @@ $ node --version && npm --version
 ```
 ### Setup
 
-Clone the repository using [this link](https://github.com/PrangonGhose/space-traveller-s-hub.git)
+Clone the repository using [this link](https://github.com/PierreBarba/capstone-metrics)
 
 ### Install
 
