@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/capstone-metrics/static/css/main.ea31b791.css",
+    "main.js": "/capstone-metrics/static/js/main.a4187338.js",
+    "static/media/europe.png": "/capstone-metrics/static/media/europe.99d67bc6b0b1218682a2.png",
+    "index.html": "/capstone-metrics/index.html",
+    "main.ea31b791.css.map": "/capstone-metrics/static/css/main.ea31b791.css.map",
+    "main.a4187338.js.map": "/capstone-metrics/static/js/main.a4187338.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea31b791.css",
+    "static/js/main.a4187338.js"
+  ]
+}
