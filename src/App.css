@@ -191,6 +191,7 @@ body {
 }
 
 @media (max-width: 768px) {
+
   .main-title {
     color: rgb(255, 255, 255);
   }
@@ -383,6 +384,88 @@ body {
   .countriesgroup {
     display: grid;
     grid-template-columns: 1fr 1fr;
+  }
+
+  .card {
+    border-left: 1px solid rgba(255, 255, 255, 0.744);
+    border-right: 1px solid rgba(255, 255, 255, 0.744);
+    column-gap: 20px;
+    padding: 29px 0 22px 2px;
+  }
+
+  .card-name {
+    margin-top: 5%;
+    color: white;
+    font-size: 0.9em;
+  }
+
+  .main-title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1em;
+    color: rgb(1, 1, 15);
+    padding: 5% 0% 0% 93%;
+  }
+
+  .form-section {
+    padding: 6px 0 0 0;
+    margin: 0% 0% 0% 0%;
+    gap: 4px;
+  }
+
+  .imgEurope {
+    width: 100%;
+    height: 100%;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+  }
+
+  .iconSet {
+    width: 19px;
+    height: 100%;
+    padding: 4px 0 3px 16%;
+  }
+
+  .find-item {
+    display: none;
+  }
+
+  .icon {
+    display: none;
+  }
+
+  .containerForm {
+    padding: 63px 0 0 0;
+    margin: 0 0 0 0;
+  }
+}
+
+@media (max-width: 390px) {
+  .flags {
+    width: 79px;
+    height: 63px;
+  }
+
+  .countriesgroup {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 0;
+  }
+
+  .h2countries {
+    color: aliceblue;
+    padding: 0 0 3px 139px;
+  }
+}
+
+@media (max-width: 375px) {
+  .flags {
+    width: 74px;
+    height: 63px;
+  }
+
+  .h2countries {
+    color: aliceblue;
+    padding: 0 0 3px 139px;
   }
 
   .card {
