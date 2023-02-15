@@ -22,6 +22,14 @@ export const getApiCountries = createAsyncThunk(OBTAIN_DATA,
         population: country.population,
         flag: country.flags.svg,
         id: uuidv4(),
+        subregion: country.subregion,
+        coordenates: {
+          lat: country.latlng[0],
+          long: country.latlng[1],
+        },
+        soweek: country.startOfWeek,
+        capital: country.capital[0],
+        coarms: country.coatOfArms.svg,
       }
     ));
 
