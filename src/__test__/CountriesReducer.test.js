@@ -26,5 +26,6 @@ test('country reducer', () => {
     payload: [
       DataCountry],
   });
+  
   expect(state).toEqual([DataCountry]);
 });
