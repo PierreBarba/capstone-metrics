@@ -143,7 +143,7 @@ This website is applicable for both mobile and desktop version.
 
 Contributions, issues, and feature requests are welcome! Add suggestions by opening new issues.
 
-Feel free to check the [issues page](https://github.com/PrangonGhose/space-traveller-s-hub/issues).
+Feel free to check the [issues page](https://github.com/PierreBarba/capstone-metrics/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,4 +177,4 @@ Thank you very much for allowing me to use your design which I took as a referen
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./license) licensed.
+This project is [MIT](./license)licensed.
