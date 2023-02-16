@@ -7,9 +7,18 @@ import '@testing-library/jest-dom';
 import store from '../Redux/ConfigureStore';
 
 const Country = {
-  name: 'France',
-  population: 67391582,
-  flag: 'https://flagcdn.com/fr.svg',
+  name: 'Ukraine',
+  population: 44134693,
+  flag: 'https://flagcdn.com/is.svg',
+  id: 'e115687c-660f-48e8-8da0-bf9809a9140c',
+  subregion: 'Eastern Europe',
+  coordenates: {
+    lat: 49,
+    long: 32,
+  },
+  soweek: 'monday',
+  capital: 'Kyiv',
+  coarms: 'https://mainfacts.com/media/images/coats_of_arms/ua.svg',
 };
 
 describe('Test page deployment', () => {
