@@ -177,4 +177,6 @@ Thank you very much for allowing me to use your design which I took as a referen
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./license)licensed.
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
